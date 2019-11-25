@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "10.14.1",
+  "description": "basic node demo",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeithBonarrigo/node-demo.git"
+  },
+  "author": "Keith Bonarrigo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KeithBonarrigo/node-demo/issues"
+  },
+  "homepage": "https://github.com/KeithBonarrigo/node-demo#readme"
+}
